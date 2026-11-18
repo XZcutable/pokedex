@@ -73,7 +73,7 @@ Four themes, each in light and dark (Settings → Theme and Appearance).
 
 ## Features
 
-What's in the app today (version 0.4.2).
+What's in the app today (version 0.4.3).
 
 ### Pokédex and profiles
 - All 1,025 Pokémon with their regional forms, Megas and Gigantamax, fully offline.
