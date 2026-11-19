@@ -73,12 +73,19 @@ Four themes, each in light and dark (Settings → Theme and Appearance).
 
 ## Features
 
-What's in the app today (version 0.4.4).
+What's in the app today (version 0.5.0).
 
 ### Pokédex and profiles
 - All 1,025 Pokémon with their regional forms, Megas and Gigantamax, fully offline.
 - Profiles with an overview (Pokédex entries from every game, height, weight, abilities), base
   stats, moves by game, and type matchups.
+- Every game's sprite in a Sprites tab, with male and female looks where they differ, and an
+  Illustrations tab for artwork like Zygarde's Cells or Koraidon's builds.
+- Look-alike forms (Unown's letters, Vivillon's patterns, Pikachu's caps…) behind one button with a
+  picture picker, and a Form changes card showing which item makes each form.
+- An Own moves card with each Pokémon's signature moves, exclusive Z-Moves and G-Max Moves, and
+  Max Moves for Gigantamax forms.
+- Long-press a name, a stat line, an ability or an entry to copy it.
 - A stats calculator: level, IVs, EVs and nature give you the real numbers.
 - Evolution chains drawn by their shape: straight lines, branches and Eevee-style hubs.
 - Cries, a shiny toggle, and flares by the names of Legendary, Mythical and other special Pokémon.
@@ -95,7 +102,8 @@ What's in the app today (version 0.4.4).
 
 ### Search
 - Search by name or number, or use the search language: `type:fire|dragon gen:1`,
-  shown as removable chips.
+  `has:mega`, shown as removable chips. Choose which kinds of forms (Megas, Gigantamax, regional
+  forms…) show up in searches.
 - **"Who's that Pokémon?"**: pick what you remember (type, color, size, shape…) and it finds it.
 - Tap a fact on a profile or dex page (an ability, a type, an egg group) to search for everything
   that shares it.
@@ -121,7 +129,8 @@ What's in the app today (version 0.4.4).
 
 ### Make it yours
 - Themes: Modern, Classic, Diamond and Pearl, each in light and dark (or following your phone).
-- A bottom bar with five slots: pick which section each one opens.
+- A bottom bar with five slots: pick which section each one opens. Settings is always one tap away
+  from the gear at the top.
 - Sound effects for taps, scrolling and searching, with a volume slider.
 - Updates are offered inside the app when a new version comes out.
 
